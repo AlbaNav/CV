@@ -1,0 +1,24 @@
+.more{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.habilities{
+ text-align: center;
+ text-transform: uppercase;
+ margin:4px;
+ padding-right: 21.5rem;
+ padding-left:21.5rem;
+}
+
+.lenguage{
+  margin: 2px;
+  padding-right: 19.5rem;
+  padding-left:19.5rem;
+}
+h4{
+  text-transform: uppercase;
+  font-weight: bold;
+}
+

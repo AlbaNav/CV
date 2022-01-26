@@ -1,0 +1,20 @@
+.education {
+  width:40%;
+  flex-wrap: wrap;
+  padding: 4%;
+  text-align: center;
+  border-radius: 12px;
+  background-color: rgba(95, 86, 107, 0.349);
+  margin-left: 26%;
+  margin-right: 24.5%;
+}
+
+
+  p {
+    color: #010105;
+    text-decoration: none;
+  }
+  .name{
+    text-transform: uppercase;
+    font-weight: bold;
+  }

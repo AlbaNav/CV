@@ -1,0 +1,14 @@
+.About {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    flex-wrap: wrap;
+    width:40%;
+    margin-left:26%
+    }
+ 
+  .nameAbout{
+    justify-content: center;
+    text-justify: justify;
+
+  }
