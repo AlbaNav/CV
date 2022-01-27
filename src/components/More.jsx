@@ -28,7 +28,7 @@ const More = ({ languages, habilities }) => {
       <div className="gridTwo box">
      
         { habilities.map((txt) => (
-          <p> {txt}</p>
+          <p> key={txt}</p>
         ))}
         
       </div>
