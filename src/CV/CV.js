@@ -18,7 +18,7 @@ export const CV = {
         info: "Also love to live in a small village in the heart of Segovia, surrounded by nature. ",
       },
       {
-        info: "I love to share time with my loved ones, and han try to make life simpler. ",
+        info: "I love to share time with my loved ones, and try to make life simpler. ",
       },
     ],
   },
