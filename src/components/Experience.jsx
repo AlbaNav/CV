@@ -11,6 +11,7 @@ const Experience = ({ experience }) => {
               <p className="name"> {item.name}</p>
               <p>{item.where}</p>
               <p>{item.date}</p>
+              <p>{item.description}</p>
             </div>
           );
         })}
