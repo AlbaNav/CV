@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="App">
       <Hero hero={hero} />
+      <img src={"https://res.cloudinary.com/dua6dm8ik/image/upload/v1643293067/pcmono_arewqg.png"} alt="pc bonito" />
        <About hero={hero} />
       <div>
        <button
