@@ -12,10 +12,10 @@ export const CV = {
         info: "I’ve always been interested in computing and now I took this new path to change my life.  ",
       },
       {
-        info: "Passionate of music, movies and graphic novels and comics, I love to paint and all things concerning creativity. ",
+        info: "Passionate for music, movies, graphic novels and comics, I love to paint and all things concerning creativity. ",
       },
       {
-        info: "Also love to live in a small village in the heart of Segovia, surrounded by nature. ",
+        info: "Among my passions is nature, reason I leave in a small quaint town in the heart of Segovia ",
       },
       {
         info: "I love to share time with my loved ones, and try to make life simpler. ",
